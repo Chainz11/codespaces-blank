@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/hold/hold/bin/Debug/net7.0/hold
+/workspaces/codespaces-blank/hold/hold/bin/Debug/net7.0/hold.deps.json
+/workspaces/codespaces-blank/hold/hold/bin/Debug/net7.0/hold.runtimeconfig.json
+/workspaces/codespaces-blank/hold/hold/bin/Debug/net7.0/hold.dll
+/workspaces/codespaces-blank/hold/hold/bin/Debug/net7.0/hold.pdb
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/hold.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/hold.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/hold.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/hold.AssemblyInfo.cs
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/hold.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/hold.dll
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/refint/hold.dll
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/hold.pdb
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/hold.genruntimeconfig.cache
+/workspaces/codespaces-blank/hold/hold/obj/Debug/net7.0/ref/hold.dll

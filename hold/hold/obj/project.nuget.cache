@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vs2Z5m4rsXTmjBzzDLrQIkekpiR9CXDjacuMuj/wsDf4gP/Cd3LGH7WqSlADYqpSKtTIdvwJ7dqRdh0kFUhxgA==",
+  "success": true,
+  "projectFilePath": "/workspaces/codespaces-blank/hold/hold/hold.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.runtime.win-x64/7.0.5/microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/7.0.5/microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.win-x64/7.0.5/microsoft.netcore.app.host.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

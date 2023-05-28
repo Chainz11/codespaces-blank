@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/holdmybeer/bin/Debug/net7.0/holdmybeer
+/workspaces/codespaces-blank/holdmybeer/bin/Debug/net7.0/holdmybeer.deps.json
+/workspaces/codespaces-blank/holdmybeer/bin/Debug/net7.0/holdmybeer.runtimeconfig.json
+/workspaces/codespaces-blank/holdmybeer/bin/Debug/net7.0/holdmybeer.dll
+/workspaces/codespaces-blank/holdmybeer/bin/Debug/net7.0/holdmybeer.pdb
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/holdmybeer.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/holdmybeer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/holdmybeer.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/holdmybeer.AssemblyInfo.cs
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/holdmybeer.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/holdmybeer.dll
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/refint/holdmybeer.dll
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/holdmybeer.pdb
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/holdmybeer.genruntimeconfig.cache
+/workspaces/codespaces-blank/holdmybeer/obj/Debug/net7.0/ref/holdmybeer.dll

@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/prom.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/prom.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/prom.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/prom.AssemblyInfo.cs
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/prom.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/prom/bin/Debug/net7.0/prom
+/workspaces/codespaces-blank/prom/bin/Debug/net7.0/prom.deps.json
+/workspaces/codespaces-blank/prom/bin/Debug/net7.0/prom.runtimeconfig.json
+/workspaces/codespaces-blank/prom/bin/Debug/net7.0/prom.dll
+/workspaces/codespaces-blank/prom/bin/Debug/net7.0/prom.pdb
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/prom.dll
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/refint/prom.dll
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/prom.pdb
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/prom.genruntimeconfig.cache
+/workspaces/codespaces-blank/prom/obj/Debug/net7.0/ref/prom.dll
