@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/zad.3.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/zad.3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/zad.3.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/zad.3.AssemblyInfo.cs
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/zad.3.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/29.05.2023/zad.3/bin/Debug/net7.0/zad.3
+/workspaces/codespaces-blank/29.05.2023/zad.3/bin/Debug/net7.0/zad.3.deps.json
+/workspaces/codespaces-blank/29.05.2023/zad.3/bin/Debug/net7.0/zad.3.runtimeconfig.json
+/workspaces/codespaces-blank/29.05.2023/zad.3/bin/Debug/net7.0/zad.3.dll
+/workspaces/codespaces-blank/29.05.2023/zad.3/bin/Debug/net7.0/zad.3.pdb
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/zad.3.dll
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/refint/zad.3.dll
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/zad.3.pdb
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/zad.3.genruntimeconfig.cache
+/workspaces/codespaces-blank/29.05.2023/zad.3/obj/Debug/net7.0/ref/zad.3.dll
